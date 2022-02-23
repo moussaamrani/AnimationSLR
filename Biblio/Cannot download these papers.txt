@@ -1,0 +1,6 @@
+- End-User Support for Debugging Demonstration-Based Model Transformation Execution.
+- Model-Based Generation of Run-Time Monitors for AUTOSAR
+- OCL-Based Runtime Monitoring of Applications with Protocol State Machines.
+- A Plug-in Based Approach for UML Model Simulation. 
+- Towards Control Flow Analysis of Declarative Graph Transformations with Symbolic Execution
+- Chaining model transformations to develop a system model verification tool: application to capella state machines and data flows models
