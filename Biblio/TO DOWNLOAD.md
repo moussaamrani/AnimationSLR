@@ -13,4 +13,4 @@
 
 ## TO DOWNLOAD
 -  Using High-level Petri Nets in Domain Specific Language Design
--  Integrated Simulation of Domain-Specific Modeling Languages with Petri Net-Based Transformational Semantics
+-  Mosteller, David and Haustermann, Michael and Moldt, Daniel and Schmitz, Dennis. Integrated Simulation of Domain-Specific Modeling Languages with Petri Net-Based Transformational Semantics. Transactions on Petri Nets and Other Models of Concurrency. 2019.
