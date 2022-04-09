@@ -1,0 +1,87 @@
+Moussa Papers/:
+DISCARDED
+RELEVANT
+
+Moussa Papers/DISCARDED:
+Acretoaie, Vlad and Storrle, Harald and Struber, Daniel. VMTL. A Language For End-User Model Transformation (SoSyM 2016).pdf
+Al-Mamun, Md Abdullah and Berger, Christian and Hansson, Jorgen. MDE-Based Sensor Management and Verification For A Self-Driving Miniature Vehicle (DSM 2013).pdf
+Asensio, J.A. and Criado, J. and Padilla, N. and Iribarne, L. Emulating Home Automation Installations Through Component-Based Web Technology (FGCS 2017).pdf
+Avazpour, I. and Grundy, J. and Grunske, L. Specifying Model Transformations By Direct Manipulation Using Concrete Visual Notations (JVLC 2015).pdf
+Bardhol, Roswitha. A Visual Environment For Visual Languages (SCP 2002).pdf
+Bardhol, Roswitha. GenGed. A Generic Graphical Editor For Visual Languages Based on AGG (VL 1998).pdf
+Beziers la Fosse, Thibault and Tisi, Massimo et al. Towards Platform-Specific Energy Estimation xDSML (2019).pdf
+Bottoni, Paolo and Koch, Manuel and Parisi-Presicce, F. and Taentzer, G. Consistency Checking And Visualisation of OCL Constraints (UML 2000).pdf
+Bull, R. Ian and Jean-Marie Favre, Jean-Marie. Visualization in the Context of Model Driven Engineering (MDDAUI 2005).pdf
+Cook, Steve and Jones, Gareth and Kent, Stuart and Wills Alan C. Domain Specific Development with Visual Studio DSL Tools (2007).pdf
+De Lara, Juan and Vangheluwe, Hans and Moreno, Manuel A. Using Metamodelling and Graph Grammars To Create Modelling Environments (ENTCS 2003).pdf
+De Troyer, Olga and Paret, Elien. Challenges in Designing Domain-Specific Modeling Language for Educational Games .pdf
+Deniz, Ozan and Adak, Mehmet and Oguztuzun, Halit. Animation of Behavioral Specifications through Code Generation for a Payment System (BCI 2009).pdf
+Dietrich, H. and Breuker, D. and al. Developing Graphical Model Editors For Metamodelling Tools. (EMISAJ 2013).pdf
+Dormans, Joris. Level Design as Model Transformation A Strategy for Automated Content Generation (PCGames 2011).pdf
+Dutle, Aaron M. and Munoz, Cesar A.  et al. Software Validation Via Model Animation (TAP 2015).pdf
+Ege, Florin and Tichy, Matthias. Towards Control Flow Analysis of Declarative Graph Transformations with Symbolic Execution (MoDELS 2021).pdf
+Ehrig, K. and Ermel, C. and Hansgen, S. and Taentzer, G. Generation of Visual Editors as Eclipse Plug-Ins (ASE 2005).pdf
+Ehrig, Karsten and Winkelmann, Jessica. Model Transformation From VisualOCL to OCL Using Graph Transformation (ENTCS 2006).pdf
+Esser, Robert and Janneck, Jorn W. Moses. A Tool Suite For Visual Modeling Of Discrete-Event Systems (VL-HCC 2001).pdf
+Frank, Ulrich. Some Guidelines for the Conception of DSMLs (EMISA 2011).pdf
+Grundy, J. and Hosking, J. and al. Generating domain-specific visual language tools from abstract visual specifications (TSE's 2012).pdf
+Grundy, John and Hosking, John G. and Huh, Jun and Na-Liu Li, Karen Marama. An Eclipse Meta-Toolset For Generating Multi-View Environments (ICSE 2008).pdf
+Grundy, John C. and Hosking, John and Na Li, Karen and Ali, Norhayati Mohd and Huh, Jun and Li, Richard Lei. Generating DSVL Tools From Abstract Visual Specification (TSE 2013).pdf
+Guana, Victor and Gaboriau, Kelsey and Stroulia, Eleni. ChainTracker Towards a Comprehensive Tool for Building Code-Generation Environments (ICSME 2014).pdf
+Guerra, E. and De Lara, Juan and Wimmer, Manuel et al. Automated Verification of Model Transformations Based on Visual Contracts (ASE 2013).pdf
+Haarslev, Volker and Wessel, Michael. GenEd. An Editor with Generic Semantics for Formal Reasoning about Visual Notations (VL 1996).pdf
+Hamann, Lars and Hofrichter, Oliver and Gogolla, Martin. OCL-Based Runtime Monitoring of Applications with Protocol State Machines (ECMFA 2012).pdf
+Herzig, Philipp and Jugel, Kay and Momm, Christof and Ameling, Michael and Schill, Alexander. GaML. A Modeling Language For Gamification (UCC 2013).pdf
+Hojaji, Fazilat and Mayerhofer, Tanja and Zamani, Bahman and Hamou-Lhadj, Abdelwahab and Bousse, Erwan. Model Execution Tracing. A Systematic Mapping Study (SoSyM 2019).pdf
+Hojaji, Fazilat and Zamani, Bahman and Hamou-Lhadj, Abdelwahab and Mayerhofer, Tanja and Bousse, Erwan. Lossless Compaction of Model Execution Traces (SoSyM 2020).pdf
+Idani, Akram and Vega, German and Leusche, Michael. Applying Formal Reasoning To Model Transformation. The Meeduse Solution (TTC 2019).pdf
+Leroy, Dorian and Bousse, Erwan and Megna, Anael and Combemale, Benoit and Wimmer, Manuel. Trace Comprehension Operators for Executable DSLs (ECMFA 2018).pdf
+Leucker, Martin and Schallhart, Christian. A Brief Account of Runtime Verification (JLAMP 2009).pdf
+Minas, Mark. Concepts And Realization Of A Diagram Editor Generator Based On Hypergraph Transformation (SCP 2002).pdf
+Morgan, R. and Grossmann, G. and Schrefl, M. et al. VizDSL. A Visual DSL for Interactive Information Visualization (CAiSE 2018).pdf
+Mosteller, David et al. Integrated Simulation of DSML With PN-Based Transformational Semantics (TPNOMC 2019).pdf
+Patzina, Lars and Patzina, Sven and Piper, Thorsten and Manns, Paul. Model-Based Generation of Runtime Monitors for Autosar (ECMFA 2013).pdf
+Pfister, Francois and Huchard, Marianne and Nebut, Clementine. A Framework For Concurrent Design of Metamodels and Diagrams. (ICEIS 2014).pdf
+Radjenovic, Alek and Paige, R.F. and Rose, L.M. and Woodcock, Jim and King, Steve. A Plug-in Based Approach for UML Model (ECMFA 2012).pdf
+Sapia, Carsten and Blaschka, Markus and Hfling, Gabriele. GraMMi. Using A Standard Repository Management System To Build A Generic Graphical Modeling Tool (HICSS 2000).pdf
+Selway, M. and Grossman, G. et al. Integration of Visual Contracts and Model Transformation for Enhanced MDE Development (MoDELS 2018).pdf
+Shen, L. and Chen, X. and Liu, R. and Wang, H. and Ji, G. DSL Techniques For Visual Computing. A Comprehensive Survey (ACME 2021).pdf
+Sun, Yu and Grey, Jeff. End-User Support For Debugging Demonstration-Based Model Transformation Execution (ECMFA 2013).pdf
+Trouilhet, S. et al. Model-Driven Engineering for End-Users in the Loop in SmartAmbient Systems (JUCS 2021).pdf
+Troya, Javier and Rivera, Jose E. and Vallecillo, Antonio. Simulating Domain Specific Visual Models by Observation (SCS 2010).pdf
+Troya, Javier and Vallecillo, Antonio and Duran, Francisco. On the Modular Specification of Non-Functional Properties in DSVLs (JISBD 2012).pdf
+van Amstel, M.F. and Serebrenik, A. and van den Brand, M.G. J. Traceability Visualisation in Model Transformation with TraceVis (ICMT 2012).pdf
+van Amstel, M.F. and Serebrenik, A. and van den Brand, M.G. J. Visualizing Traceability in Model Transformation Compositions (2011).pdf
+Vazquez-Ingelmo, A. and Garcia-Penalvo, F.J. et al. Representing Data Goals and Tasks Through MM to Tailor Information Dashboards (AS 2020).pdf
+Vilitis, Oskars and Kalnins, Audris. Technical Solutions For The Transformation-Driven Graphical Tool Building Platform METAclipse (DIT 2008).pdf
+White, Jules and Schmidt, Douglas C. and Mulligan, Sean. GEMS. The Generic Eclipse Modeling System.pdf
+Zhu, N. and Grundy, J. and Hosking, J. et al. Pounamu. A Meta-Tools For Implementing Domain Specific Visual Languages (JSS 2007).pdf
+
+Moussa Papers/RELEVANT:
+Bousse, Erwan and Degueule, Thomas and Vojtisek, Didier et al. Execution Framework of the GeMoC Studio (Tool Demo) (SLE 2016).pdf
+Bousse, Erwan and Leroy, Dorian and Combemale, Benoit and Wimmer, Manuel and Baudry, Benoit. Omniscient Debugging for xDSLs (SoSyM 2018).pdf
+Bousse, Erwan and Mayerhofer, Tanja and Wimmer, Manuel. Domain-Level Debugging for Compiled DSLs with the GEMOC Studio (MDEbug 2017).pdf
+Bousse, Erwan and Wimmer, Manuel. Domain-Level Observation And Control For Compiled xDSLs (MODELS 2019).pdf
+Combemale, Benoit and Cregut, Xavier and Giacometti, Jean-Pierre and Michel, Pierre et al. Introducing Simulation and Model Animation in the MDE Topcased Toolkit (ERTS 2008).pdf
+Cramer, Bastian and Kastens, Uwe. Animation Automatically Generated From Simulation Specifications (VLHCC 2009).pdf
+Das, N. and Ganesan, S. and Jweda, L. et al. Supporting The MDD of RTES (MoDELS'16).pdf
+Deantoni, Julien. Modeling The Behavioral Semantics of Heterogeneous Languages and Their Coordination (ACVI 2016).pdf
+Engels, G. and Hausmann, JH. et al. Dynamic Metamodeling. A Graphical Approach To The Op.Sem Of Behavioral Diagrams (UML 2000).pdf
+Ermel, Claudia and Ehrig, Hartmut. Behavior-Preserving Simulation-to-Animation Model and Rule Transformations (GT-VC 2007).pdf
+Gargantini, Angelo and Riccobene, Elvinia. ViBBA. A Toolbox for Automatic Model Driven Animation (SimVis 2005).pdf
+Guin, Philip and Syriani, Eugene. Model-based Animation of Micro-Trafﬁc Simulation (TMS-DEVS 2013).pdf
+Idani, Akram and Ledru Yves et al. Incremental Development of a Safety Critical System Combining formal Methods and DSMLs (FMICS  2019).pdf
+Idani, Ikram. Meeduse. A Tool to Build and Run Proved DSLs (iFM 2020).pdf
+Leroy, Dorian and Bousse, Erwan and Wimmer, Manuel and Mayerhofer, Tanja and Combemale, Benoit and Schwinger, Wieland. Behavioral Interfaces for Executable DSLs (SoSyM 2020).pdf
+Levendovszky, Tihamer and Meszaros, Tamas. Tooling the Dynamic Behavior Models of Graphical DSLs (HCII 2009).pdf
+Meszaros, Tamas and Feher, Peter and Lengyel, Laszlo. Visual Debugging Support for Graph Rewriting-Based Model Transformations (EuroCon 2013).pdf
+Meszaros, Tamas and Levendovszky, Tihamer and Mezei, Gergely. Code Generation with the Model Transformation of Visual Behavior Models (MPM2009).pdf
+Mosteller, David et al. Graphical Simulation Feedback In PN-Based DSLs Within an MM Environment (PNSE 2018).pdf
+Mosteller, David et al. The RMT Approach. A Systematic Approach To The Development of DSML With Integrated Simulation Based on PN (EMISA 2020).pdf
+Palanque, P. and Ladry, JF. and Navarre D. and Barboni, E. High-Fidelity Prototyping of Interactive Systems Can Be Formal Too (HCII 2009).pdf
+Pasternak, M. and Kahani, N. and Bagherzadeh, M. et al. Simgen. A Tool For Generating Simulations And Visualizations (MoDELS 2018.pdf
+Pieters, Ruben P. and Schrijvers, Tom. PaSe. An Extensible and Inspectable DSL for Micro-Animations (STFP 2020).pdf
+Pietriga, Emmanuel and Vion-Dury, Jean-Yves and Quint, Vincent. VXT. A Visual Approach to XML Transformations (DocEng 2001).pdf
+Rohrer, Matthew W. Seeing Is Believing. The Importance of Visualisation in Manufacturing Simulation (WinterSim 2000).pdf
+Wimmer, Manuel and Kusel, Angelika and Linz, Jku. Right or Wrong. Verification of Model Transformations using Colored Petri Nets (DSM’09).pdf
+Yohannis, Alfa and Rodriguez, Horacio Hoyos and Polack, Fiona and Kolovos, Dimitris. Towards Visualising Change-based Models (MoDELS-C 2019).pdf

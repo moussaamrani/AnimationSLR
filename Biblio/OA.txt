@@ -1,0 +1,97 @@
+Ouared Papers/:
+DISCARDED
+RELEVANT
+
+Ouared Papers/DISCARDED:
+Aboussoror, EA and Ober, I. and Ober, I. Seeing Errors Model Driven Simulation Trace Visualization (MODELS 2012).pdf
+Amstel, Marcel F van and van den Brand, Mark GJ and Serebrenik, Alexander. Traceability Visualisation in MT with TraceVis (ICMT 2012).pdf
+Ana Lavalle, Alejandro Maté, Juan Trujillo - Requirements-DrivenVisualizationsforBigDataAnalyticsaModel-Drivenapproach -ER 2019.pdf
+Arcaini, P. and Bonfanti, S. and Gargantini, A. and Riccobene, E. Visual Notation and Patterns for Abstract State Machine (STAF 2016).pdf
+Bousse, E. and Mayerhofer, T. and al. Advanced and efficient execution trace management for executable domain-specific modeling languages ( SoS 2019).pdf
+Bousse, E. and Mayerhofer, T. and al. Advanced and efficient execution trace management for executable domain-specific modeling languages (SoS 2019).pdf
+Cam, S. and Dayibas, O. and Gorur, B. and Ouguztuzun, M. and al, A. Supporting-simulation-experiments-with-megamodeling (SCITEPRESS 2018).pdf
+Chabibi, Bassim and Anwar, Adil and Nassar, Mahmoud and Admir, Labo and Center, RI. Model Integration Approach from SysML to MATLABSimulink (JDIM 2018).pdf
+Chabibi, Bassim and Nassar, Mahmoud and Anwar, Adil. SimulML A DSML for Simulating SysML Models. (JCSE 2019).pdf
+Chen, Jian and Alalfi, Manar H and Dean, Thomas R and Ramesh, S. Modeling AUTOSAR Implementations in Simulink (ECMFA 2018).pdf
+Colin, Atkinson and Ralph, Gerbig and Noah, Metzger. On the Execution of Deep Models (MODELS 2015).pdf
+Combemale, Benoit and Cregut, Xavier and Giacometti, Jean-Pierre and Michel, Pierre and Pantel, Marc. Introducing Simulation and Model Animation in the MDE (ERTS 2008).pdf
+Coulon, Fabien and Degueule, Thomas and Van Der Storm, Tijs and Combemale, Benoit. Shape-Diverse DSLs Languages without Borders (Vision Paper) (ACM SIGPLAN 2018).pdf
+Cregut, X. and Combemale, B. and Pantel, M. and Faudoux, R. and Pavei, J. Generative Technologies for Model Animation in the TOPCASED Platform (ECMFA 2010).pdf
+Deniz, Ozan and Adak, Mehmet and Oguztuzun, Halit. Animation of Behavioral Specifications through Code Generation for a Payment System (BCI 2009).pdf
+Devillers, Frederic and Donikian, Stephane. A Scenario Language to orchestrate Virtual World Evolution (SIGGRAPH 2003).pdf
+Dorian L., Pierre J. , Erwan B. and al. Runtime Monitoring for Executable DSLs. JOT. 2020..pdf
+Duhil, C. and Babau, JP and Lepicier, E. et al. Chaining Model Transformations For System Model Verification (Modelsward 2020).pdf
+Efroni, Sol and Harel, David and Cohen, Irun R. Reactive Animation Realistic Modeling of Complex Dynamic Systems. ( journal Computer 2005).pdf
+Elliott, Conal. An Embedded Modeling Language Approach to Interactive 3D and Multimedia Animation (TSE 1999).pdf
+Ergin, Huseyin and Syriani, Eugene and Gray, Jeff. Design Pattern Oriented Development of Model Transformations ( COMPUT LANG SYST STR 2016).pdf
+Erwan Bousse, Manuel Wimmer. Domain-Level Observation and Control for Compiled Executable DSLs. MODELS. 2019.pdf
+France, Robert and Rumpe, Bernhard. Model-driven Development of Complex Software A Research Roadmap (FOSE 2007).pdf
+Gabriele Taentzer. Characterizing Tools for Visual Modeling Techniques (FoVMT 2006).pdf
+Hennig, Stefan and Van den Bergh, Jan and Luyten, Kris and Braune, Annerose. User Driven Evolution of User Interface Models (HCI 2011).pdf
+Idani, Akram and Vega, German and Leuschel, Michael, Applying formal reasoning to model transformation The Meeduse solution ( TTC 2019).pdf
+Idir Ait-Sadoune and Yamine Ait-Ameur. Employ Event-B and Rodin for proving properties and animation of BPEL processes (SERA 2010).pdf
+Jepsen, Jesper and Kindler, Ekkart. The Event Coordination Notation Behaviour Modelling Beyond Mickey Mouse (BM-FA  2015).pdf
+Kanyaru, J and Coles, M. and Jeary, S. and Phalp, K. Using visualisation to elicit domain information as part of the Model Driven Architecture approach (MDABIZ 2008).pdf
+King, Peter and Schmitz, Patrick and Thompson, Simon. Behavioral Reactivity And Real Time Programming in XML (DocEng 2004).pdf
+Lenk, Matthias and Vitzthum, Arnd. Model-Driven Iterative Development of 3D Web Applications Using SSIML, X3D and JavaScript (Web3D 2012).pdf
+Leroy, D. and Bousse, E. and Wimmer, M. and Mayerhofer, T. and Combemale, B. and Schwinger, W. Behavioral interfaces for executable DSLs (SoSyM 2020).pdf
+Lewis, Tracy and Rosson, Mary Beth and Carroll, John and Seals, Cheryl. A Community Learns Design Towards a Pattern Language for Novice Visual Programmers  (HCC’2002).pdf
+Magee, Jeff and Pryce, Nat and Giannakopoulon, Dimitra and Kramer, Jeff. Graphical Animation of Behavior Models (ICSE 2000).pdf
+Márton B. and al. Distributed graph queries over models@ run. time for runtime monitoring of cyber-physical systems. STTT. 2020.pdf
+Márton B. SzilágyAndrás V. VörösDaniel V. Distributed Graph Queries for Runtime Monitoring of Cyber-Physical Systems. FASE. 2018.pdf
+Matlage, Kevin and Gill, Andy. Every Animation Should Have A Beginning, A Middle, and An End. A Case Study of Using a Functor-Based Animation Language (TFP 2010).pdf
+Mierlo, Simon Van and Vangheluwe, Hans and al.  Extending Explicitly Modelled Simulation Debugging Environments with Dynamic Structure (TOMACS 2020).pdf
+Miller, Tim and Strooper, Paul. Model-Based Specification Animation Using Testgraphs. (ICFEM 2002).pdf
+Mussbacher, G. and Amyot, D. and Breu, R. and Bruel, J. and Cheng, B. and al. The relevance of model-driven engineering thirty years from now (MODELS 2014).pdf
+Nyameino, Job N. and Rabbi, Fazle et al. A Model Driven Approach to the Development of Gamified Interactive Clinical Practice Guidelines (ENASE 2019).pdf
+Oliveira, Nuno and Henriques, Pedro Rangel and Da Cruz, Daniela and al. Applying Program Comprehension Techniques to Karel Robot Programs (TTC 2019).pdf
+Pilgrim, Jens von and Vanhooff, Bert and Schulz-Gerlach, Immo and Berbers, Yolande. Constructing and Visualizing Transformation Chains (ECMDA-FA 2008).pdf
+Pleuss, Andreas and Hussmann, Heinrich. Model-Driven Development of Interactive Multimedia Applications With MML (MDD-AUI 2011).pdf
+Radfelder, Oliver and Gogolla, Martin. On better understanding UML diagrams through interactive three-dimensional visualization and animation (AVI 2000).pdf
+Rath, Istvan and Vago, David and Varro, Daniel. Design-time Simulation of Domain-Specific Models by Incremental Pattern Matching (VLHCC 2008).pdf
+Ribeiro, Oscar R. Animation-based Validation of Reactive Software Systems using Behavioural Models (2009).pdf
+Robert France, Bernhard Rumpe, Model-driven Development of Complex Software A Research Roadmap,  ICSE, 2007.pdf
+Saraiva, Joao. Design, Implementation and Animation of Spreadsheets in the Lrc System (ENTCS 2004).pdf
+Selway, Matt and Grossman, Georg and Stumptner, Markus et al. Integration of Visual Contracts and Model Transformation for Enhanced MDE Development (MODELS 2018).pdf
+Sturner, Matthias and Brune, Philipp. Virtual Worlds on Demand Model-Driven Development of JavaScript-based Virtual World UI Components for Mobile Apps ( MODELSWARD 2016).pdf
+Taentzer, Gabriele and Ehrig, Karsten and Guerra, Esther and Lara, Juan de and al. Model Transformation by Graph Transformation A Comparative Study (ICERI 2005).pdf
+Trouilhet, S. and A., Jean-Paul and Bruel, J. and Koussaifi, M.. Model-Driven Engineering for End-Users in the Loop in Smart Ambient Systems (UCS 2021).pdf
+van Pinxten, Joost and Basten, Twan. Joost van Pinxten and Twan Basten, Motrusca interactive model transformation use case repository. (YDS 2014).pdf
+Van Tendeloo, Yentl and Vangheluwe, Hans. The Modelverse a tool for multi-paradigm modelling and simulation (WSC 2017).pdf
+Vargas, R. and Arellano, G. and Beltran, H.D. et al. MDA Game Design for Video Game Development by Genre (MoDELS 2013).pdf
+Varro, D and Asztalos, M and Bisztray, D and Boronat, A and Dang, DH and al. Applications-of-graph-transformations-with-industrial-relevance (AGTIVE 2007).pdf
+Zhu, Meng and Wang, Alf Inge. Model-Driven Game Development A Literature Review. (CSUR 2019).pdf
+
+Ouared Papers/RELEVANT:
+Benoit, Combemale and Cédric, Brun and Joel, Champeau and Xavier, Crégut, Julien. A Tool-Supported Approach for Concurrent Execution of Heterogeneous Models (ERTS 2016).pdf
+Claudia, Ermel and Hartmut, Ehrig. Behavior-Preserving Simulation-to-Animation Model and Rule Transformations (ENTCS 2008).pdf
+Combemale, Benoit and Barais, Olivier and Brun, Cedric et al. A Solution to the TTC’15 Model Execution Case Using the GEMOC Studio (TTC 2015).pdf
+Combemale, Benoit and Cregut, Xavier and Giacometti, Jean-Pierre and Michel, Pierre et al. Introducing Simulation and Model Animation in the MDE Topcased Toolkit (ERTS 2008).pdf
+Cregut, Xavier and Combemale, B. and Pantel, Marc and Faudoux, R. and Pavei, Jonatas. Generative Technologies for Model Animation in the TopCased Platform (ECMFA 2010).pdf
+Dang, Duc-Hanh and Gogolla, Martin. An OCL-Based Framework for Model Transformations (VNU Journal of Science 2016).pdf
+Dorian, Leroy and Erwan, Boussey, and Manuel, Wimmerz and Benoit, Combemalex and Wieland, Schwinger. Create and Play your Pac-Man Game with the GEMOC Studio (MODELS 2017).pdf
+Ermel, Claudia. Simulation and Animation of Visual Languages based on Typed Algebraic Graph Transformation (Thesis 2006).pdf
+Ernst, Alexander M. and Lankes, Josef and Schweda, Christian M. et al. Using Model Transformation for Generating Visualizations from Repository Contents (CS 2006).pdf
+France, Robert and Rumpe, Bernhard. Model-Driven Development of Complex Software A Research Roadmap (FSE@ICSE 2007).pdf
+France, Robert and Rumpe, Bernhard. Model-Driven Development of Complex Software. A Research Roadmap (ICSE, 2007).pdf
+Gauthier, JM and Bouquet, F. and Hammad, A. and Peureux, F. A SysML Formal Framework to Combine Discrete and Continuous Simulation for Testing (ICFEM 2015).pdf
+Gogolla, Martin and Bohling, Jorn and Richters, Mark. Validating UML and OCL Models in USE by Automatic Snapshot Generation (SoSyM, 2005).pdf
+Goldsby, H. and Cheng, B. and Konrad, S. and Kamdoum, S. A Visualization Framework For The Modeling And For Analysis of High Assurance Systems (MoDELS 2006).pdf
+Guin, Philip and Syriani, Eugene. Model-based Animation of Micro-Trafﬁc Simulation (TMS-DEVS 2013).pdf
+Harel, David and Nitzan, Shani. Programming Animation Using Behavioral Programming (BM-FA 2015).pdf
+Idani, Akram and Ledru Yves et al. Incremental Development of a Safety Critical System Combining formal Methods and DSMLs (FMICS  2019).pdf
+Idani, Akram. Formal Model-Driven Executable DSLs. Application To Petri Nets (DETECT 2020).pdf
+Julien Deantoni, Modeling the Behavioral Semantics of Heterogeneous Languages and their Coordination (ACVI 2016).pdf
+Leuschel, M. and Bendisposto, J. and Dobrikov, I. and Krings, S. and Plagge, D. From Animation to Data Validation. The ProB Constraint Solver (SCADE 2014).PDF
+Leuschel, Michael and Butler, Michael. ProB an automated analysis toolset for the B method (STTT 2008).pdf
+Leuschel, Michael and Samia, Mireille and Bendisposto, Jens and Luo, Li. Easy Graphical Animation and Formula Visualisation for Teaching B (Elsevier Science 2008).pdf
+M. Wimmer, A. Kusel and al. Lets's Play the Token Game Model Transformations Powered By Transformation Nets.PNSE 2009..pdf
+Mayr, H. and Ram, S. and Reisig, W. and Stumptner, M. Next Generation Domain Specific Conceptual Modeling Principles and Methods (Dagstuhl Reports 2019).pdf
+Meszaros, Tamas and Feher, Peter and Lengyel, Laszlo. Visual Debugging Support for Graph Rewriting-Based Model Transformations (EuroCon 2013).pdf
+Reiter, Thomas and Wimmer, Manuel et al. Towards A Runtime Model Based On Colored Petri Nets For The Execution Of Model Transformations (MA 2007).pdf
+Strobl, Torsten and Minas, Mark. Generating graph transformation rules from AMLGT state machine diagrams for building animated model editors (AGTIVE 2011).pdf
+Strobl, Torsten and Minas, Mark. Specifying and Generating Editing Environments for Interactive Animated Visual Models (EASST 2010).pdf
+Tikhonova, Ulyana and Manders, Maarten and Boudewijns, Rimco. Visualization of Formal Specifications for Understanding (STAF 2016).pdf
+Van Mierlo, Simon and Van Tendeloo, Yentl and Barroca, Bruno et al. Explicit Modelling Of A Parallel DEVS Experimentation Environment (TMS-DEVS 2015).pdf
+Van Rozen, Riemer. Languages of Games and Play. A Systematic Mapping Study (CSur 2020).pdf
+Van, H. and van Lamsweerde, A. and Massonet, P. and Ponsard, C. Goal-Oriented Requirements Animation (RE 2004).pdf
