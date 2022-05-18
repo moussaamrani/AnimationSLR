@@ -6,6 +6,7 @@ from matplotlib import gridspec
 from matplotlib.pyplot import figure
 
 
+data = pd.read_csv('CORPUS-Final.csv')
 
 # Arrays with categorical variables
 
@@ -22,7 +23,6 @@ MTLCluster =['FSM','REWRITE','KERMETA','PN','XTEND/JAVA','B','VARIOUS','OTHER']
 
 #data = pd.read_excel(url,sheet_name=sheet_name)
 
-data = pd.read_csv('CORPUS-Final.csv')
 
 
 

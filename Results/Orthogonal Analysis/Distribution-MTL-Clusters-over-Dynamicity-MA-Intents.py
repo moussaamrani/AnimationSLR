@@ -5,13 +5,6 @@ import seaborn as sns
 from matplotlib import gridspec
 from matplotlib.pyplot import figure
 
-#gsheetkey = "1XfhT6hZ05RLzMdviMJPjE0E8DPVibb3HRsMWCR2NA6s"
-#sheet name
-#sheet_name = 'CORPUS'
-
-#url=f'https://docs.google.com/spreadsheet/ccc?key={gsheetkey}&output=xlsx'
-
-#data = pd.read_excel(url,sheet_name=sheet_name)
 
 data = pd.read_csv('CORPUS-Final.csv')
 

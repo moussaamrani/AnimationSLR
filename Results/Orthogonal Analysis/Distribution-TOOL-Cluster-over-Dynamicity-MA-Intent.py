@@ -5,6 +5,8 @@ import seaborn as sns
 from matplotlib import gridspec
 from matplotlib.pyplot import figure
 
+
+data = pd.read_csv('CORPUS-Final.csv')
 # Arrays with categorical variables
 tech = ['ONLINE', 'OFFLINE']
 level = ['Debugging', 'Understanding', 'Educational']
@@ -29,7 +31,6 @@ EducationalMLLang = [0,0,0,0,0,0,0,0,0,0]
 
 #data = pd.read_excel(url,sheet_name=sheet_name)
 
-data = pd.read_csv('CORPUS-Final.csv')
 target1 = data["Unnamed: 12"]
 target2 = data["Unnamed: 15"]
 target3 = data["Dynamicity"]

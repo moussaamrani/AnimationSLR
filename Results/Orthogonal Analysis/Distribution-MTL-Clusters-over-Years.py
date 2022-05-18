@@ -5,8 +5,8 @@ import seaborn as sns
 from matplotlib import gridspec
 from matplotlib.pyplot import figure
 
-data = pd.read_csv('CORPUS-Final.csv')
 
+data = pd.read_csv('CORPUS-Final.csv')
 # Arrays with categorical variables
 Dynamicity = ['ONLINE', 'OFFLINE']
 AnimIntent = ['Debugging', 'Understanding', 'Educational']
