@@ -1,0 +1,46 @@
+#,BibTeX Key,Authors,Title,Venue,Venue Type,Year,Orientation,MTL Type,Dynamicity,Animation Type,CLUSTER,,Intent,,,
+,,,,,,,,,,,MT Lang,TOOLS,Declared?,Values,,
+1,,"Bandener, Nils and Soltenborn, Christian and Gregor Engels",Extending DMM Behavior Specifications for Visual Execution and Debugging,SLE,CONF,2012,ACA,GPML,ONLINE,CUSTOM,FSM,OTHER,YES,UNDERSTAND,EDUCATE,DEBUG
+2,,"Bousse, Erwan and Degueule, Thomas and Vojtisek, Didier et al. ",Execution Framework of the GeMoC Studio (Tool Demo) ,SLE,CONF,2016,ACA,MP,ONLINE,CUSTOM,KERMETA,GEMOC,YES,UNDERSTAND,,DEBUG
+3,,"Bousse, Erwan and Leroy, Dorian and Combemale, Benoit and Wimmer, Manuel and Baudry, Benoit",Omniscient Debugging for xDSLs,SoSyM,JOUR,2018,ACA,MP,ONLINE,CUSTOM,KERMETA,GEMOC,YES,,,DEBUG
+4,,"Claudia, Ermel and Hartmut, Ehrig",Behavior-preserving simulation-to-animation model and rule transformations. ,ENTCS,JOUR,2008,ACA,GBT,ONLINE,CUSTOM,REWRITE,GenGED,YES,UNDERSTAND,,DEBUG
+5,,"Combemale, Benoit and Barais, Olivier and Brun, Cedric et al",A Solution to the TTC’15 Model Execution Case Using the GEMOC Studio.,TTC,WSHOP,2015,INDUS,MP,ONLINE,CUSTOM,KERMETA,GEMOC,YES,,,DEBUG
+6,,"Combemale, Benoit and Brun, Cedric and Champeau, Joel and Cregut, Xavier and Deantoni, Julien and Le Noir, Jerome.",A Tool-Supported Approach for Concurrent Execution of Heterogeneous Models,ERTS,CONF,2016,INDUS,GPPL,ONLINE,CUSTOM,XTEND/JAVA,GEMOC,YES,UNDERSTAND,,DEBUG
+7,,"Combemale, Benoit and Cregut, Xavier and Giacometti, Jean-Pierre and Michel, Pierre et al",Introducing Simulation and Model Animation in the MDE Topcased Toolkit.,ERTS,CONF,2008,INDUS,GPPL,ONLINE,PREDEF,XTEND/JAVA,TOPCASED,YES,UNDERSTAND,,DEBUG
+8,,"Cramer, Bastian and Kastens, Uwe",Animation Automatically Generated From Simulation Specifications ,VL/HCC ,CONF,2009,ACA,MP,ONLINE,CUSTOM,OTHER,OTHER,YES,,,DEBUG
+9,,"Cregut, Xavier and Combemale, B. and Pantel, Marc and Faudoux, R. and Pavei, Jonatas",Generative Technologies for Model Animation in the TopCased Platform.,ECMFA,CONF,2010,INDUS,GPPL,ONLINE,CUSTOM,XTEND/JAVA,TOPCASED,YES,UNDERSTAND,,DEBUG
+10,,"Das, Nondini and Ganesan, Suchita and Jweda, Leo and Bagherzadeh, Mojtaba and Hili, Nicolas and Dingel, Juergen",Supporting The MDD of Real-Time Embedded Systems With Run-Time Monitoring and Animation via Highly Customizable Code Generation,MoDELS-C,WSHOP,2016,ACA,GPML,ONLINE,PREDEF,FSM,OTHER,YES,UNDERSTAND,EDUCATE,DEBUG
+11,,"De Lara, Juan and Vangheluwe, Hans and Alfonseca, Manuel. ",Metamodelling and Graph Grammars For MPM in Atom3,SoSyM,JOUR,2004,ACA,GBT,ONLINE,CUSTOM,REWRITE,ATOMPM,YES,UNDERSTAND,,DEBUG
+12,,"De Lara, Juan and Vangheluwe, Hans. ","Defining Visual Notations and Their Manipulation
+Through Metamodelling and Graph Transformation",Journal of Visual Languages and Computing,JOUR,2004,ACA,GBT,ONLINE,CUSTOM,REWRITE,ATOMPM,NO,UNDERSTAND,,
+13,,"Deantoni, Julien",Modeling The Behavioral Semantics of Heterogeneous Languages and Their Coordination ,ACVI,CONF,2016,ACA,MP,ONLINE,CUSTOM,KERMETA,GEMOC,YES,UNDERSTAND,,DEBUG
+14,,"Ermel, Claudia and Holsher, Karsten and Kuske, Sabine and Ziemann, Paul",Animated Simulation of Integrated UML Behavioral Models based on Graph Transformation ,VL/HCC ,CONF,2005,ACA,GBT,ONLINE,CUSTOM,REWRITE,GenGED,YES,UNDERSTAND,,DEBUG
+15,,"Esser, Robert and Janneck, Jorn W. ",Moses. A Toolsuite For Visual Modeling of Discrete Event Systems ,HCC ,CONF,2001,ACA,ALGEBRAIC,ONLINE,CUSTOM,OTHER,OTHER,YES,,,DEBUG
+16,,"Goldsby, H. and Cheng, B. and Konrad, S. and Kamdoum, S. ",A Visualization Framework for the Modeling and Formal Analysis of High Assurance Systems.,MoDELS,CONF,2006,ACA,GPML,OFFLINE,PREDEF,FSM,OTHER,YES,UNDERSTAND,,DEBUG
+17,,"Guin, Philip and Syriani, Eugene",Model-based Animation of Micro-Trafﬁc Simulation,TMS-DEVS,CONF,2013,ACA,GPPL,OFFLINE,CUSTOM,OTHER,ATOMPM,NO,UNDERSTAND,,
+18,,"Hegedus, Abel and Rath, Istavan and Varro, Daniel",Replaying Execution Trace Models for Dynamic Modeling Languages ,PPEECS,JOUR,2012,ACA,GBT,OFFLINE,PREDEF,REWRITE,VMTS,YES,,,DEBUG
+19,,"Idani, Akram",Formal model-driven executable DSLs : Application to Petri-nets.,Innovations in Systems and Software Engineering,JOUR,2021,ACA,GPML,OFFLINE,PREDEF,VARIOUS,MEEDUSE,YES,,,DEBUG
+20,,"Idani, Akram",Meeduse: A Tool to Build and Run Proved DSLs ,iFM,CONF,2020,INDUS,GPML,ONLINE,CUSTOM,B,MEEDUSE,YES,UNDERSTAND,,DEBUG
+21,,"Idani, Akram and Ledru Yves et al. ",Incremental Development of a Safety Critical System Combining formal Methods and DSMLs,FMICS,CONF,2019,INDUS,LOGIC,ONLINE,CUSTOM,B,MEEDUSE,YES,UNDERSTAND,EDUCATE,DEBUG
+22,,"Idani, Akram and Vega, German and Leuschel, Michael",Applying formal reasoning to model transformation: The Meeduse solution,TTC,WSHOP,2019,ACA,LOGIC,ONLINE,PREDEF,B,MEEDUSE,YES,,,DEBUG
+23,,Julien Deantoni,Modeling the Behavioral Semantics of Heterogeneous Languages and their Coordination,ACVI,CONF,2016,ACA,MP,OFFLINE,CUSTOM,KERMETA,GEMOC,NO,UNDERSTAND,,DEBUG
+24,,"Leroy, D. and Bousse, E. and Wimmer, M. and Mayerhofer, T. and Combemale, B. and Schwinger, W",Behavioral interfaces for executable DSLs.,SoSyM,JOUR,2020,INDUS,MP,ONLINE,CUSTOM,VARIOUS,GEMOC,YES,,,DEBUG
+25,,"Levendovszky, Tihamer and Meszaros, Tamas ",Tooling the Dynamic Behavior Models of Graphical DSLs ,HCII,CONF,2009,ACA,GBT,ONLINE,PREDEF,REWRITE,VMTS,NO,UNDERSTAND,,
+26,,"Meszaros, Tamas and Feher, Peter and Lengyel, Laszlo.",Visual Debugging Support for Graph Rewriting based Model Transformations,EuroCon,CONF,2013,ACA,GBT,ONLINE,PREDEF,REWRITE,VMTS,YES,,,DEBUG
+27,,"Michael Leuschel, Mireille Samia, Jens Bendisposto, Li Luo",Easy Graphical Animation and Formula Visualisation for Teaching B ,In: The B Method: From Research to Teaching,CONF,2008,ACA,LOGIC,ONLINE,PREDEF,B,OTHER,YES,,EDUCATE,
+28,,"Mosteller, David and Haustermann, Michael and Moldt, Daniel and Schmitz, Dennis ",Graphical Simulation Feedback In PN-Based DSLs Within an MM Environment ,Workshop on Petri Nets and Software Engineering,WSHOP,2018,ACA,GPML,ONLINE,PREDEF,PN,RMT,NO,UNDERSTAND,,
+29,,"Mosteller, David and Haustermann, Michael and Moldt, Daniel and Schmitz, Dennis ",Integrated Simulation of DSML With PN-Based Transformational Semantics ,Transactions on Petri Nets and Other Models of Concurrency,JOUR,2019,ACA,GPML,ONLINE,PREDEF,PN,RMT,NO,UNDERSTAND,,
+30,,"Mosteller, David and Haustermann, Michael and Moldt, Daniel and Schmitz, Dennis ",The RMT Approach. A Systematic Approach To The Development of DSML With Integrated Simulation Based on PN,Enterprise Modeling and Information Systems Architectures,WSHOP,2020,ACA,GPML,ONLINE,PREDEF,PN,RMT,NO,UNDERSTAND,,DEBUG
+31,,"Palanque, P. and Ladry, JF. and Navarre D. and Barboni, E. ",High-Fidelity Prototyping of Interactive Systems Can Be Formal Too ,HCII,CONF,2009,ACA,GPML,ONLINE,PREDEF,PN,OTHER,NO,UNDERSTAND,,DEBUG
+32,,"Pasternak, Michal and Kahani, Nafiseh and Bagherzadeh, Mojtaba and Dingel, Juergen and Cordy, James R",SimGen. A Tool For Generating Simulations And Visualizations of Embedded Systems On The Unity Game Engine,MoDELS-C,WSHOP,2018,ACA,MP,ONLINE,CUSTOM,OTHER,OTHER,YES,UNDERSTAND,,DEBUG
+33,,"Reiter, Thomas and Wimmer, Manuel et al",Towards a runtime model based on colored Petri-nets for the execution of model transformations,MA,WSHOP,2007,ACA,GPML,ONLINE,PREDEF,PN,TROPIC,NO,UNDERSTAND,,
+34,,"Sadilek, Daniel and Wachsmuth, Guido. ",Prototyping Visual Interpreters And Debuggers for DSMLs ,ECMDA,CONF,2008,ACA,GBT,ONLINE,CUSTOM,REWRITE,OTHER,YES,UNDERSTAND,,DEBUG
+35,,"Strobl, Torsten and Minas, Mark",Generating Graph Transformation Rules from AML/GT State Machine Diagrams for Building Animated Model Editors,AGTIVE,CONF,2011,ACA,GBT,ONLINE,CUSTOM,REWRITE,DiaMeta,NO,UNDERSTAND,,
+36,,"Strobl, Torsten and Minas, Mark",Specifying and Generating Editing Environments for Interactive Animated Visual Models,"Graph Transformation and
+Visual Modeling Techniques",WSHOP,2010,ACA,GBT,ONLINE,CUSTOM,REWRITE,DiaMeta,NO,UNDERSTAND,,
+37,,"Tikhona, Ulyana and Manders, Maarten and Boudewijns, Rimco",Visualization of Formal Specifications for Understanding and Debugging an Industrial DSL.,STAF,CONF,2016,INDUS,LOGIC,ONLINE,CUSTOM,B,OTHER,YES,UNDERSTAND,,DEBUG
+38,,"Van Mierlo, Simon and Van Tendeloo, Yentl and Barroca, Bruno et al", Explicit Modelling Of A Parallel DEVS Experimentation Environment,TMS-DEVS,CONF,2015,ACA,GPPL,ONLINE,CUSTOM,REWRITE,ATOMPM,YES,,,DEBUG
+39,,"Van, H. and van Lamsweerde, A. and Massonet, P. and Ponsard, C",Goal-Oriented Requirements Animation,ER,CONF,2004,ACA,LOGIC,ONLINE,PREDEF,B,OTHER,YES,UNDERSTAND,,DEBUG
+40,,"Vangheluwe, Hans and Sun, Ximeng and Bodden, Eric ",Domain-Specific Modelling with AToM3,International Conference on Software and Data Technologies,CONF,2007,ACA,GBT,ONLINE,CUSTOM,REWRITE,ATOMPM,NO,UNDERSTAND,,
+41,,"Wimmer, M. and Kusel, A. et al.",Lets's Play The Token Game. Model Transformations Powered By Transformation Nets ,PSNE,WSHOP,2009,ACA,GPML,ONLINE,PREDEF,PN,TROPIC,YES,UNDERSTAND,,DEBUG
+42,,"Wimmer, Manuel and Kusel, Angelika and Linz, Jku",Right or Wrong? Verification of Model Transformations using Colored Petri Nets,DSM,WSHOP,2009,ACA,GPML,ONLINE,PREDEF,PN,TROPIC,YES,,,DEBUG
