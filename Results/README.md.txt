@@ -3,7 +3,7 @@ About CORPUS exploration and analysis:
 To allow independent replication and verification of our study, the accompanying online repository is publicly available,
 includes the Python scripts we developed for data exploration and analysis.
 
-Step to execute scripts:
+Setup and run:
 
 1: Download script.zip file a zip from Github
 2: Create scriptfolder anywhere on your PC and extract zip content to this folder
