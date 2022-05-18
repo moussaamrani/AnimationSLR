@@ -8,5 +8,5 @@ Step to execute scripts:
 1: Download a zip file from Github
 2: You may need to install matplotlib in python or you can use Google Colab Notebooks (https://colab.research.google.com/).
 2: Customize the path of the CORPUS folder to read a CSV file (line of code 9 ->  data = pd.read_csv('CORPUS-Final.csv'))
-3: Run a python script to get all the resultats of of vertical and orthogonal analysis.
+3: Run a python script to get all the resultats of vertical and orthogonal analysis.
  
