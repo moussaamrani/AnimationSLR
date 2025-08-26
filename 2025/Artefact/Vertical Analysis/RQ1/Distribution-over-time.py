@@ -19,20 +19,33 @@ target = data["Venue Type"]
 target2 = data["Year"]
 
 
-for i in range(len(target)):
-    if (target[i]=="CONF" ): 
-        for j in range(len(x)):
-            if (x[j]==target2[i]): 
-                nbCONF[j] += 1   
-    if (target[i]=="WSHOP"): 
-        for j in range(len(x)):
-            if (x[j]==target2[i]):
-                nbWSHOP[j]+= 1 
-    if (target[i]=="JOUR"): 
-        for j in range(len(x)):
-            if (x[j]==target2[i]): 
-                nbJOUR[j] += 1 
+#for i in range(len(target)):
+#    if (target[i]=="CONF" ): 
+#        for j in range(len(x)):
+#            if (x[j]==target2[i]): 
+#                nbCONF[j] += 1   
+#    if (target[i]=="WSHOP"): 
+#        for j in range(len(x)):
+#            if (x[j]==target2[i]):
+#                nbWSHOP[j]+= 1 
+#    if (target[i]=="JOUR"): 
+#        for j in range(len(x)):
+#            if (x[j]==target2[i]): 
+#                nbJOUR[j] += 1 
                 
+for i in range(len(target)):
+    if str(target[i]).upper().startswith("C"):
+        for j in range(len(x)):
+            if x[j] == target2[i]:
+                nbCONF[j] += 1
+    elif str(target[i]).upper().startswith("W"):
+        for j in range(len(x)):
+            if x[j] == target2[i]:
+                nbWSHOP[j] += 1
+    elif str(target[i]).upper().startswith("J"):
+        for j in range(len(x)):
+            if x[j] == target2[i]:
+                nbJOUR[j] += 1
                 
 
 total = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]

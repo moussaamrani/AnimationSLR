@@ -103,4 +103,4 @@ a2.grid(ls='dotted', color='black')
 # Show and save figure
 plt.tight_layout()
 plt.show()
-fig.savefig('TOOL-Cluster-Dynamicity-MA-Intent-AltaRica.pdf', dpi=200)
+fig.savefig('TOOL+DYN+MAIntent.pdf', dpi=200)

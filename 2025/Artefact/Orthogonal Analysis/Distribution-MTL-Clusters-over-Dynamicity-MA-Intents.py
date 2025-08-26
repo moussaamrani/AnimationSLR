@@ -109,4 +109,6 @@ a2.grid(ls='dotted', color='black')
 # Affichage et sauvegarde
 plt.tight_layout()
 plt.show()
-fig.savefig('MTL-Clusters-over-Dynamicity-MA-Intents.pdf', dpi=200)
+#fig.savefig('MTL-Clusters-over-Dynamicity-MA-Intents.pdf', dpi=200)
+fig.savefig('TOOL+DYN+MAIntent.pdf', dpi=200)
+

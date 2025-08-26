@@ -7,24 +7,27 @@ data = pd.read_csv('CORPUS-Final.csv')
 # Récupération de la colonne "Venue Type"
 target = data["Venue Type"]
 
-# Comptage des types de publication
-NbConf = sum("CONF" in str(t).upper() for t in target)
-NbWSHOP = sum("WSHOP" in str(t).upper() for t in target)
-NbJOUR = sum("JOUR" in str(t).upper() for t in target)
+# Comptage des types de publication selon la première lettre
+NbConf = sum(str(t).upper().startswith("C") for t in target)
+NbWSHOP = sum(str(t).upper().startswith("W") for t in target)
+NbJOUR = sum(str(t).upper().startswith("J") for t in target)
 
 # Vérification des valeurs
 print(f"Conférences : {NbConf}")
 print(f"Workshops : {NbWSHOP}")
 print(f"Journaux : {NbJOUR}")
 
-# Calcul des pourcentages
+# Calcul des pourcentages avec deux décimales
 TotalPub = NbConf + NbWSHOP + NbJOUR
-rateCONF = NbConf / TotalPub * 100
-rateWSHOP = NbWSHOP / TotalPub * 100
-rateJOUR = NbJOUR / TotalPub * 100
+rateCONF = round(NbConf / TotalPub * 100, 2)
+rateWSHOP = round(NbWSHOP / TotalPub * 100, 2)
+# Pour s'assurer que la somme = 100%, on calcule le dernier comme reste
+rateJOUR = round(100 - rateCONF - rateWSHOP, 2)
 
 # Vérification des taux
-print(rateCONF, rateWSHOP, rateJOUR)
+print(f"Conférences : {rateCONF}%")
+print(f"Workshops : {rateWSHOP}%")
+print(f"Journaux : {rateJOUR}%")
 print("Somme des pourcentages :", rateCONF + rateWSHOP + rateJOUR)
 
 # Préparation des données pour le graphique
@@ -39,7 +42,7 @@ plt.pie(
     Tasks,
     labels=my_labels,
     textprops={'fontsize': 18},
-    autopct='%1.1f%%',
+    autopct=lambda p: f'{p:.2f}%',  # Affiche deux décimales
     startangle=180,
     colors=my_colors,
     explode=my_explode,
@@ -52,7 +55,7 @@ plt.axis('equal')
 
 # Sauvegarde du PDF sans marges blanches
 plt.savefig(
-    "Distribution-over-venue-type.pdf",
+    "distribution-venu.pdf",
     dpi=600,
     bbox_inches='tight',  # Supprime les marges blanches
     pad_inches=0          # Élimine les espaces résiduels

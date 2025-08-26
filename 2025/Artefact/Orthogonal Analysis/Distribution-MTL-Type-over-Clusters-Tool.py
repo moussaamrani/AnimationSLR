@@ -1,12 +1,18 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
+# Load data
 data = pd.read_csv('CORPUS-Final.csv')
+
+# ✅ Merge META into MP
+data["MTL Type"] = data["MTL Type"].replace("META", "MP")
+
+# Targets
 target1 = data["MTL Type"]
 target2 = data["Unnamed: 12"]
 
 # Arrays with categorical variables
-MTLtype = ['GBT','MP','GPPL','GPML','LOGIC','ALGEBRAIC']  # Removed 'META'
+MTLtype = ['GBT','MP','GPPL','GPML','LOGIC','ALGEBRAIC']
 level = ['','','','','','','','']  # Placeholder for second plot
 MTLCluster = ['TOPCASED','GEMOC','ATOMPM','MEEDUSE','VMTS','RMT','DiaMeta','TROPIC','GenGED','OTHER','AltaRica']
 
@@ -30,7 +36,9 @@ MTLtype_count = [MTLtype_count_dict[mt] for mt in MTLtype]
 df1 = pd.DataFrame(MTLtype_count, columns=MTLCluster, index=MTLtype)
 df2 = pd.DataFrame(level_count, columns=MTLCluster, index=level)
 
+# ============================
 # Create figure with two subplots
+# ============================
 fig, (a1, a2) = plt.subplots(ncols=1, nrows=2, constrained_layout=True, sharex=True, figsize=(11,6.5))
 
 # First scatter plot - MTL types
@@ -49,7 +57,9 @@ dfu2 = pd.DataFrame(df2_plot_data)
 a2.scatter(x="X", y="Y", s="S", data=dfu2, color='w', linestyle='solid', edgecolors='#000000', linewidth=2)
 a2.margins(.1)
 
+# ============================
 # Annotate first plot
+# ============================
 for i, mt in enumerate(MTLtype):
     for j, cluster in enumerate(MTLCluster):
         text = str(MTLtype_count[i][j]) if MTLtype_count[i][j] != 0 else " "
@@ -77,5 +87,5 @@ fig.set_size_inches(6.5, 7.5)
 plt.show()
 fig.savefig('MTL-Type-Clusters-Tool-AltaRica.pdf', dpi=200, transparent=True)
 
-# Print total counts excluding META
+# Print total counts including META as MP
 print("Total MTL counts:", sum([sum(MTLtype_count_dict[mt]) for mt in MTLtype]))
