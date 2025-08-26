@@ -1,17 +1,17 @@
-import pandas as pd
+import pandas as pd 
 import matplotlib.pyplot as plt
 
 data = pd.read_csv('CORPUS-Final.csv')
 
 # Arrays with categorical variables
-MTLtype = ['GBT','MP','GPPL','GPML','LOGIC','ALGEBRAIC','META']  # Added META
+MTLtype = ['GBT','MP','GPPL','GPML','LOGIC','ALGEBRAIC']  # Removed 'META'
 TOOLCluster = ['TOPCASED','GEMOC','ATOMPM','MEEDUSE','VMTS','RMT','DiaMeta','TROPIC','GenGED','OTHER'] 
 MTLCluster = ['FSM','REWRITE','KERMETA','PN','XTEND/JAVA','B','VARIOUS','OTHER']
 
 # Initialize counters for MTL types
 MTLtype_count_dict = {mt: [0]*len(MTLCluster) for mt in MTLtype}
 
-# Initialize counters for TOOL clusters (keeping your original structure)
+# Initialize counters for TOOL clusters
 TOOLCluster_count = [[0]*len(MTLCluster) for _ in range(len(TOOLCluster))]
 
 target1 = data["MTL Type"]

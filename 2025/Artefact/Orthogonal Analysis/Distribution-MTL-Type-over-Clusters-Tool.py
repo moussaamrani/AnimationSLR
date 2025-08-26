@@ -6,9 +6,9 @@ target1 = data["MTL Type"]
 target2 = data["Unnamed: 12"]
 
 # Arrays with categorical variables
-MTLtype = ['GBT','MP','GPPL','GPML','LOGIC','ALGEBRAIC','META']  # MTL types
+MTLtype = ['GBT','MP','GPPL','GPML','LOGIC','ALGEBRAIC']  # Removed 'META'
 level = ['','','','','','','','']  # Placeholder for second plot
-MTLCluster = ['TOPCASED','GEMOC','ATOMPM','MEEDUSE','VMTS','RMT','DiaMeta','TROPIC','GenGED','OTHER','AltaRica']  # Added AltaRica
+MTLCluster = ['TOPCASED','GEMOC','ATOMPM','MEEDUSE','VMTS','RMT','DiaMeta','TROPIC','GenGED','OTHER','AltaRica']
 
 # Initialize counters for MTL types
 MTLtype_count_dict = {mt: [0]*len(MTLCluster) for mt in MTLtype}
@@ -75,7 +75,7 @@ a2.grid(ls='dotted', color='black')
 plt.tight_layout()
 fig.set_size_inches(6.5, 7.5)
 plt.show()
-fig.savefig('MTL-Type-Clusters-Tool-META-AltaRica.pdf', dpi=200, transparent=True)
+fig.savefig('MTL-Type-Clusters-Tool-AltaRica.pdf', dpi=200, transparent=True)
 
-# Print total counts including META
+# Print total counts excluding META
 print("Total MTL counts:", sum([sum(MTLtype_count_dict[mt]) for mt in MTLtype]))

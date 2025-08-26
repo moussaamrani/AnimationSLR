@@ -8,9 +8,9 @@ data = pd.read_csv('CORPUS-Final.csv')
 # Arrays with categorical variables
 Dynamicity = ['ONLINE', 'OFFLINE']
 animIntent = ['DEBUG', 'UNDERSTAND', 'EDUCATE']
-MTLtype = ['GBT','MP','GPPL','GPML','LOGIC','ALGEBRAIC','META']  # Added META
+MTLtype = ['GBT','MP','GPPL','GPML','LOGIC','ALGEBRAIC']  # Removed 'META'
 
-# Initialize arrays with zeros (7 elements now for META)
+# Initialize arrays with zeros
 ONLINEIntent = [0]*len(MTLtype)
 OFFLINEIntent = [0]*len(MTLtype)
 
@@ -85,7 +85,7 @@ for i in range(len(animIntent)):
         a2.annotate(text=text, xy=(MTLtype[j], animIntent[i]), ha='center', va='center', color='black', size=22)
 
 # Set labels and grid
-a1.set_ylabel('Dynamicity', size=16, labelpad=20, weight="bold")
+a1.set_ylabel('Dynamicity', size=16, labelpad=40, weight="bold", rotation=90, va='center')
 a2.set_ylabel('Animation Intent', size=16, labelpad=20, weight="bold")
 a1.tick_params(labelsize=18.0)
 a2.tick_params(labelsize=18.0)
@@ -101,6 +101,6 @@ a2.grid(ls='dotted', color='black')
 plt.tight_layout()
 fig = plt.gcf()
 plt.show()
-fig.savefig('MTL-Type-Dynamicity-MA-Intents-META.pdf', dpi=200)
+fig.savefig('MTL-Type-Dynamicity-MA-Intents.pdf', dpi=200)
 
 print("Total counts:", sum(ONLINEIntent)+sum(OFFLINEIntent))
