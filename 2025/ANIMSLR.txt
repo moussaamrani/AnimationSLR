@@ -1,0 +1,34 @@
+Ahmadi, S. and Cavalcanti, A. and Baxter, J. and Post, M. and Ribeiro, P. Timmis, J. and Wright, T. Diagrammatic Physical Robot Models (SoSyM 2025).pdf
+Attiogbe, Christian and Rocheteau, Jerome. Correctness of IoT-Based Systems. From A DSL To A Mechanized Analysis (COLA 2023).pdf
+Ben Chaaben, Meriem and Ben Sghaier, Oussama and Dhaouadi, Mouna et al. Toward Intelligent Generation of Tailored Graphical Concrete Syntax (MoDELS 2024).pdf
+Besnard, Valentin and Teodorov, Ciprian and Jouault, Frederic and Brun, Matthias and Dhaussy, Philippe. Unified Verification And Monitoring Of Executable UML Specifications. A Transformation-Free Approach (SoSyM 2021).pdf
+Chiang, Thomas and Mendoza, Rodrigo Gomez and Mahmood, Johan and Paige, Richard F. Towards The Adoption of Model-Based System Safety Engineering In The Automotive Industry (MASE 2022).pdf
+Choudhury, Abhishek and Malavolta, Ivano and Ciccozzi, Federico and Aslam, Kousar and Lago, Patricia. The Technological Landscape Of Collaborative Model-Driven Software Engineering (SoSyM 2025).pdf
+Ciccozi, Federico and Malavolta, Ivano and Selic, Bran. Execution of UML Models. A Systematic Review Of Research And Practice (SoSyM 2018).pdf
+Costagliola, Gennaro and Deufemia, Vincenzo and Ferrucci, Filomena and Gravino, Carmine. Constructing Meta-CASE Workbenches By Exploiting Visual Language Generators (TSE 2006).pdf
+El Hamlaoui, Mahmoud and Ebersold, Sophie and Bennani, Saloua and Anwar, Adil et al. A Model-Driven Approach To Align Heterogeneous Models Of A Complex System (JoT 2021).pdf
+Enet, Josselin and Bousse, Erwan and Tisi, Massimo and Sunye, Gerson. Protocol-Based Interactive Debugging for Domain-Specific Languages (JoT 2023).pdf
+Ergin, Husein and Gray, Jeff and Hunter, Ryan. An Alternative Programming Paradigm for Blocks-Based Languages (JCSC 2023)).pdf
+Giraudet, Theo and Bats, Melanie and Blouin, Arnaud and Combemale, Benoit and David, Pierre-Charles. Sirius Web; Insights in Language Workbenches - An Experience Report (JoT 2024).pdf
+Giraudet, Theo and Blouin, Arnaud and Combemale, Benoit and Bats, Melanie and David, Pierre-Charles. Augmenting Graphical Modeling Workbenches With Semantic-Aware Interactive Features (HCI 2025).pdf
+Gogolla, Martin and Cuadrado, Jesus S. Developing Configurations And Solutions For Logical Puzzles With UML And OCL (SoSyM 2025).pdf
+Jannatpour, Ali and Constantinides, Constantinos. A Common Declarative Language for UML StateMachine Representation, Model Transformation, and Interoperability of Visualization Tools (ICFEM 2024).pdf
+Kirchhof, Jorg C. and Kusmenko, Evgeny and Meurice, Jean and Rumpe, Bernhard. Simulation Of Model Execution For Embedded Systems (MASE 2019).pdf
+Magee, Jeff and Pryce, Nat and Giannakopoulou, Dimitra and Kramer, Jeff. Graphical Animation of Behavior Models (ICSE 2000).pdf
+Mon, T.W. and Bui, D.D. and Tran, D.D. and Do, C.M. and Ogata, K. Graphical Animations of the NS(L)PK Authentication Protocols (JVLC 2021).pdf
+Mosterman, Pieter J. and Vangheluwe, Hans. When Tiny Is Big. Design Alive (JSIM, 2024).pdf
+Paynter, Stephen. Structuring The Semantic Definitions Of Fraphical Design Notations (SEJ 1995).pdf
+Predoaia, I. and Harbin, J. and Gerasimou, S. and Vasiliou, C. et al. Tree-Based vs. Hybrid Graphical-Textual Model Editors. An Empirical Study of Testing Specifications (MoDELS 2024).pdf
+Predoaia, Ionut and Kolovos, Dimitris and Lenk, Matthias and Garcia-Dominguez, Antonio. Streamlining the Development of Hybrid Graphical-Textual Model Editors for DSLs (JoT 2023).pdf
+Proenca, Jose and Edixhoven, Luc. Caos. A Reusable Scala Web Animator Of Operational Semantics (COORD 2023).pdf
+Richardson, Nathan and Kolovos, Dimitri and Garcia-Dominguez, Antonio. Aconite. Towards Generating Sirius-Based Graphical Editors from Annotated Metamodels (SLE 2024).pdf
+Siewe, François and Ngounou, Guy Merlin. On the Execution and Runtime Verification of UML Activity Diagrams (MDPI Software, 2025).pdf
+Simoes, Francisco and Goulao, Miguel and Amaral, Vasco and Exelmans, Joeri and Vangheluwe, Hans. SCCD Debugger. A Debugger for Statecharts and Class Diagrams (MoDELS-C 2024).pdf
+Sullivan, Allison. Live Programming for Finite Model Finders.pdf
+Tilantera, Artturi and Mariani, Giacomo and Korhonen, Ari and Seppala, Otto. Towards A JSON-Based Algorithm Animation Language (VISSOFT 2021).pdf
+Van Rozen, Riemer. Languages of Games and Play. A Systematic Mapping Study (CSUR 2020).pdf
+Wang, K. and Wang, JJ. and Poskitt, C.M. and Chen, X. and Sun, J. and Cheng, P. K-ST. A Formal Executable Semantics of the Structured Text Language for PLCs.pdf
+Wu, Hao. QMaxUSE. A New Tool For Verifying UML Class Diagrams and OCL Invariants (SCP 2023).pdf
+Zarrin, Bahram and Baumeister, Hubert. An Integrated Framework to Specify Domain-Specific Modeling Languages (MODELSWARD 2018).pdf
+Zhu, Feng and Tang, Jun. Graphical Composite Modeling and Simulation For Multi-Aircraft Collision Avoidance (SoSyM 2020).pdf
+Zhu, Meng and Wang, Alf Inge. Model-Driven Game Development. A Literature Review (CSUR 2019).pdf
